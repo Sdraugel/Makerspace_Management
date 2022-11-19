@@ -82,7 +82,7 @@
     "@angular/language-service": "~7.0.0",
     "@babel/plugin-proposal-numeric-separator": "^7.8.3",
     "@pact-foundation/pact-web": "7.4.0",
-    "@skyux-sdk/builder": "3.16.2",
+    "@skyux-sdk/builder": "4.12.3",
     "@skyux-sdk/pact": "3.3.1",
     "@skyux-sdk/testing": "3.2.0",
     "@types/core-js": "2.5.3",
