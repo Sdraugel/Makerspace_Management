@@ -71,7 +71,7 @@
     "flatpickr": "4.6.3",
     "microedge-rxstate": "3.0.0",
     "moment": "^2.24.0",
-    "rrule": "2.6.4",
+    "rrule": "2.7.1",
     "rxjs": "6.5.5",
     "rxjs-compat": "6.5.5",
     "zone.js": "0.9.1"
